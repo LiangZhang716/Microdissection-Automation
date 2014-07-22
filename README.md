@@ -6,6 +6,7 @@ Towards Computer Assisted Laser Microdissection &amp; Segmentation Using Matlab
 Matlab version requirements: Image Processing Toolbox, Statistics Toolbox
 
 1. set your working directory to destination folder where has all your images
+
 2 a). for at least three-color picture: 
 	cordcut=Run_ALL(imagename, nColors, filename, linTol, dilation_shape, dilation_size, auto-contrast);
 
