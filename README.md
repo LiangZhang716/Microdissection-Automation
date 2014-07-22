@@ -10,6 +10,7 @@ Matlab version requirements: Image Processing Toolbox, Statistics Toolbox
 	cordcut=Run_ALL(imagename, nColors, filename, linTol, dilation_shape, dilation_size, auto-contrast);
 
 sample input:
+	
 	imagename='adjusted.bmp'; //your color image name
 	
 	cordcut=Run_ALL(imagename,3,'ori_file.xml',10,'disk',5, 1); 
